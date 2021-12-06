@@ -10,7 +10,8 @@
   "author": "Kevin",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nanoid": "^3.1.30"
   },
   "devDependencies": {},
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Yu-ChengFan/Note-Taker/issues"
   },
-  "homepage": "https://github.com/Yu-ChengFan/Note-Taker#readme"
+  "homepage": "https://github.com/Yu-ChengFan/Note-Taker#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
